@@ -1,1 +1,14 @@
-npm init -y
+"scripts": {
+  "start": "node index.js"
+}
+{
+  "name": "messenger-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
